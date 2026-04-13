@@ -1,5 +1,5 @@
 # ai-beehive
-
+### 已停止维护
 # 介绍
 
 - chatgpt-web-java 2.0 版本，更名为 ai-beehive（爱蜂巢、AI 蜂巢），体验站：https://front.aibeehive.icu
